@@ -1,5 +1,5 @@
 <h3 align="center">alx-higher_level_programming</h3>
-```<p align="center">
+/*<p align="center">
   <a href="" rel="noopener">
  <img width=200px height=200px src="https://i.imgur.com/6wj0hh6.jpg" alt="Project logo"></a>
 </p>
@@ -113,4 +113,4 @@ See also the list of [contributors](https://github.com/kylelobo/The-Documentatio
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
-```
+*/
